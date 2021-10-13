@@ -5,3 +5,5 @@ Soy nuevo en github pero estos son los pasos que aprendí en un tutorial visto e
 3. git commit -m "Participacion Github Angel Gomez"
 4. git remote add origin https://github.com/Ango1415/PruebaHeinsohn
 5. git push origin master
+
+Modifiqué mi archivo
