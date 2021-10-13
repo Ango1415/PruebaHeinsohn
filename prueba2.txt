@@ -9,5 +9,9 @@ Soy nuevo en github pero estos son los pasos que aprendí en un tutorial visto e
 
 Modifiqué mi archivo
 
+<<<<<<< HEAD
 
 Esto tambien es una prueba
+=======
+Esto es una prueba
+>>>>>>> f44ddac60d2cdf78c86b1956e66e15752b83dabf
