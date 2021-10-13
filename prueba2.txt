@@ -1,4 +1,4 @@
-Hola, soy Ángel
+Hola, soy Ángel Gómez
 Soy nuevo en github pero estos son los pasos que aprendí en un tutorial visto esta tarde:
 
 1. git init 
